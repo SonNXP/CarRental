@@ -1,2 +1,4 @@
 CarRental/target/
 CarRental/.settings/
+CarRental/.settings/*.prefs
+CarRental/.*
